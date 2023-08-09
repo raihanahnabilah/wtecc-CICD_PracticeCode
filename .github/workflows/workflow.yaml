@@ -1,4 +1,4 @@
-name: ci-workflow
+name: ci-workflow-new
 on: 
   push:
     branches: [ "main" ]
